@@ -1,0 +1,16 @@
+﻿  Do_an.cpp
+D:\Do_an\Do_an\Xu_ly.h(129,34): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\Do_an\Do_an\Xu_ly.h(129,41): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\Do_an\Do_an\Xu_ly.h(130,23): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\Do_an\Do_an\Xu_ly.h(130,30): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\Do_an\Do_an\Xu_ly.h(815,20): warning C4018: '<=': signed/unsigned mismatch
+D:\Do_an\Do_an\Xu_ly.h(877,20): warning C4018: '<': signed/unsigned mismatch
+D:\Do_an\Do_an\Xu_ly.h(893,20): warning C4018: '<': signed/unsigned mismatch
+D:\Do_an\Do_an\Xu_ly.h(936,21): warning C4018: '<': signed/unsigned mismatch
+D:\Do_an\Do_an\Xu_ly.h(970,21): warning C4018: '<': signed/unsigned mismatch
+D:\Do_an\Do_an\Xu_ly.h(3250,6): warning C4101: 'key': unreferenced local variable
+D:\Do_an\Do_an\io.h(173,14): warning C4101: 'p': unreferenced local variable
+D:\Do_an\Do_an\my_time.h(89): warning C4715: 'is_nearer': not all control paths return a value
+D:\Do_an\Do_an\my_time.h(112): warning C4715: 'is_nearer2': not all control paths return a value
+D:\Do_an\Do_an\Xu_ly.h(2659): warning C4715: 'search_hk': not all control paths return a value
+  Do_an.vcxproj -> D:\Do_an\Debug\Do_an.exe
